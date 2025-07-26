@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background:plum;
+    text-align: center;
+    font-style: italic;
+    font-size: 300%;
+    -webkit-text-fill-color: white;
+    letter-spacing: normal;
+    
 }
